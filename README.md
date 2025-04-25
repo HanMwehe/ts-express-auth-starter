@@ -1,10 +1,12 @@
 # ts-express-auth-starter
 
-A simple TypeScript Express starter template
+A simple TypeScript Express starter template with JWT Authentication and bcrypt hashing. This is ideal for creating a secure backend API with user authentication using JSON Web Tokens (JWT).
 
 ## Features
 - Express.js framework for backend
 - TypeScript for type safety
+- User authentication with **JSON Web Token (JWT)**
+- Password hashing with **bcrypt**
 - Easy to customize and extend
 
 ## Prerequisites
