@@ -5,8 +5,6 @@ A simple TypeScript Express starter template with JWT Authentication and bcrypt 
 ## Features
 - Express.js framework for backend
 - TypeScript for type safety
-- User authentication with **JSON Web Token (JWT)**
-- Password hashing with **bcrypt**
 - Easy to customize and extend
 
 ## Prerequisites
