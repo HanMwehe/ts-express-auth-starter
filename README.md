@@ -1,6 +1,6 @@
 # ts-express-auth-starter
 
-A simple TypeScript Express starter template. This is ideal for creating a secure backend API with user authentication using JSON Web Tokens (JWT).
+A simple TypeScript Express starter template
 
 ## Features
 - Express.js framework for backend
